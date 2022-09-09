@@ -1,0 +1,7 @@
+.app {
+    height: 100vh; }
+
+.app__body {
+    displaY: flex;
+    height: 100vh;
+}
